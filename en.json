@@ -1,2 +1,9 @@
 {
+	"warning": "warning",
+	"alert": "alert",
+	"red":"red",
+	"green":"green",
+	"yellow":"yellow",
+	"vehicle": "vehicle",
+	"person": "person"
 }
