@@ -1,11 +1,9 @@
 {
-    "alert": "Alert",
-    "warning": "Warning",
-    "signal": "Signal",
-    "red": "Red",
-    "green": "Green",
-    "yellow": "Yellow",
-    "vehicle": "Vehicle",
-    "person": "Person",
-    "detection": "Detection" 
+	"warning": "warning",
+	"alert": "alert",
+	"red":"red",
+	"green":"green",
+	"yellow":"yellow",
+	"vehicle": "vehicle",
+	"person": "person"
 }
