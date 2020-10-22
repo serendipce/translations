@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://serendipce:94bd56ec9537125d0f034a85b6983e89788d52a8@github.com/serendipce/translations.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = yaa
+	email = yigitcansony@gmail.com
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[credential]
+	helper = store

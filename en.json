@@ -1,0 +1,11 @@
+{
+    "alert": "Alert",
+    "warning": "Warning",
+    "signal": "Signal",
+    "red": "Red",
+    "green": "Green",
+    "yellow": "Yellow",
+    "vehicle": "Vehicle",
+    "person": "Person",
+    "detection": "Detection" 
+}
