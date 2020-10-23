@@ -5,9 +5,9 @@ phrase:
     sources:
     - file: ./locales/<locale_code>.json
       params:
-        file_format: json
+        file_format: simple_json
   pull:
     targets:
     - file: ./locales/<locale_code>.json
       params:
-        file_format: json
+        file_format: simple_json
